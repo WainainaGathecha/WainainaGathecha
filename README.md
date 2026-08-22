@@ -5,7 +5,7 @@ I am a highly professional, product-focused Frontend Engineer specializing in tu
 Beyond the code, I am an exceptional technical communicator who bridges the gap between complex engineering realities and business stakeholding - translating technical constraints into plain, actionable concepts for non-technical clients.
 
 
-## Featured Live Productioon Project
+## Featured Live Production Project
 
 ### SmartKings Auto Tyres - B2C E-Commerce & Tyre Catalogue
 
@@ -14,7 +14,7 @@ A high performance, live-deployed e-commerce application built for a retail tyre
 **Live Deployed Platform**:  https:// wwww.smartkingsautotyres.co.ke
 **Key Engineering Achieved**:
 
-- **Complex Multi-Attribute Filter Engine**: Engineered a multi-faceted search browse, and filter system allowing users to drill down through hundreds of tyre variants seamlessly by width, profile, brand and vehicle category.
+- **Complex Multi-Attribute Filter Engine**: Engineered a multi-faceted search, browse, and filter system allowing users to drill down through hundreds of tyre variants seamlessly by width, profile, brand and vehicle category.
 
 - **State & Performance Optimization**: Optimized complex  client-side state handling to ensure instateneous interface updating and layout stability.
 
@@ -32,7 +32,7 @@ A highly dynamic web application leveraging client-side caching and intelligent 
 
 - **Key Architecture**:
 
-1. **Restfuk API orchestration**: Designed to consume data efficiently from the TMDB (The Movie Database) API, implementing robust error-boundaries and loading skeletons to mirror native application experiences.
+1. **Restful API orchestration**: Designed to consume data efficiently from the TMDB (The Movie Database) API, implementing robust error-boundaries and loading skeletons to mirror native application experiences.
 
 2. **Secure Authentication Integration**: Secured user state, watchlists, and secure profile tracking using Clerk Auth for instantaneous session management.
 
@@ -70,7 +70,7 @@ I build  clean, predictable, and highly modular systems utilizing tools that opt
 
 ## Operational Strengths and Engineering Values
 
-- **Asynchronous Excellence**: Thrives in fully distributed ecosystems.I operate with an institutional mindset towards async communication - utilizing highly accurate documentation,  structured GitHub issues, pull request summaries, and clear Slack or Loom updates to push projects forward without having for synchronous blockers.
+- **Asynchronous Excellence**: Thrives in fully distributed ecosystems. I operate with an institutional mindset towards async communication - utilizing highly accurate documentation,  structured GitHub issues, pull request summaries, and clear Slack or Loom updates to push projects forward without having for synchronous blockers.
 
 - **Rigorous Documentation Standards**: I treat documentation as a core engineering asset. Every codebase I manage is backed by exhaustive architectural blueprints, environment setups, database schemas and clear developer onboarding guides.
 
