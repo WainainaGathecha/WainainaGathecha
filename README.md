@@ -1,6 +1,6 @@
 # Hi, I'm Peter Wainaina | Frontend Engineer KE
 
-I am a highly professional, product-focused Frontend Engineer specializing in turning complex data structures into seamless, performant, and high-conversion web applications. With a robust full-stack foundation, I engineer web architectures that are fast, accessible and highly scalable.
+I am a systems-oriented Frontend engineer with a proven track record of translating pixel-perfect interfaces into highly performant and scalable web architectures. I specialize in designing reusable component systems, optimizing complex data flows, and safeguarding application lifecycle performance. Driven by an engineering philosophy that prioritizes predictable application state, structural maintainability, and early architectural choices that prevent technical debt under real-world production loads.
 
 Beyond the code, I am an exceptional technical communicator who bridges the gap between complex engineering realities and business stakeholding - translating technical constraints into plain, actionable concepts for non-technical clients.
 
