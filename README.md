@@ -5,7 +5,7 @@ I am a systems-oriented Frontend engineer with a proven track record of translat
 Beyond the code, I am an exceptional technical communicator who bridges the gap between complex engineering realities and business stakeholding - translating technical constraints into plain, actionable concepts for non-technical clients.
 
 
-## Featured Live Production Project
+## Featured Live Production Projects
 
 ### SmartKings Auto Tyres - B2C E-Commerce & Tyre Catalogue
 
@@ -32,7 +32,7 @@ A highly dynamic web application leveraging client-side caching and intelligent 
 
 - **Key Architecture**:
 
-1. **Restful API orchestration**: Designed to consume data efficiently from the TMDB (The Movie Database) API, implementing robust error-boundaries and loading skeletons to mirror native application experiences.
+1. **Restful API orchestration**: Designed to consume data efficiently from TMDB (The Movie Database) API, implementing robust error-boundaries and loading skeletons to mirror native application experiences.
 
 2. **Secure Authentication Integration**: Secured user state, watchlists, and secure profile tracking using Clerk Auth for instantaneous session management.
 
