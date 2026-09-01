@@ -61,7 +61,7 @@ I build  clean, predictable, and highly modular systems utilizing tools that opt
 - Node.js
 - Express
 - Prisma ORM
-- SQLite Database
+- SQLite
 
 ### Ecosystem
 
