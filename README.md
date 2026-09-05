@@ -21,7 +21,7 @@ A high performance, live-deployed e-commerce application built for a retail tyre
 
 ## Featured Engineering Projects
 
-### CineWatch - Advanced Movie Recommendation Engine
+### CineWatch - Advanced Movie Recommendation App
 
 A highly dynamic web application leveraging client-side caching and intelligent third-party API orchestration to deliver personalized content steams.
 
