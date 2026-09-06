@@ -10,7 +10,7 @@ Beyond the code, I am an exceptional technical communicator who bridges the gap 
 
 A high performance, live-deployed e-commerce application built for a retail tyre distributor. The application is engineered to handle extensive inventory filtering with zero layout shifts and instant state transitions.
 
-**Live Deployed Platform**:  https:// wwww.smartkingsautotyres.co.ke
+**Live Deployed Platform**:  [SmartKings Auto Tyres Homepage (https:// wwww.smartkingsautotyres.co.ke)]
 **Key Engineering Achieved**:
 
 - **Complex Multi-Attribute Filter Engine**: Engineered a multi-faceted search, browse, and filter system allowing users to drill down through hundreds of tyre variants seamlessly by width, profile, brand and vehicle category.
