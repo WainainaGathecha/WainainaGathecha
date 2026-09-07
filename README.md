@@ -44,7 +44,6 @@ I build  clean, predictable, and highly modular systems utilizing tools that opt
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- TypeScript
 
 ### Frameworks
 
@@ -65,7 +64,7 @@ I build  clean, predictable, and highly modular systems utilizing tools that opt
 ### Ecosystem
 
 - Clerk Auth
-- Git/GitHub Version Control
+- Git/GitHub
 
 ## Operational Strengths and Engineering Values
 
