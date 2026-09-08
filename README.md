@@ -8,7 +8,7 @@ Beyond the code, I am an exceptional technical communicator who bridges the gap 
 
 ### SmartKings Auto Tyres - B2C E-Commerce platform 
 
-A high performance, live-deployed e-commerce application built for a retail tyre distributor. The application is engineered to handle extensive inventory filtering with zero layout shifts and instant state transitions.
+A high performance, live-deployed e-commerce platform built for a retail tyre distributor. The application is engineered to handle extensive inventory filtering with zero layout shifts and instant state transitions.
 
 **Live Deployed Platform**:  [SmartKings Auto Tyres Homepage (https:// wwww.smartkingsautotyres.co.ke)]
 **Key Engineering Achieved**:
