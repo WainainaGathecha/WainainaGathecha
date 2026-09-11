@@ -35,7 +35,7 @@ A highly dynamic web application leveraging client-side caching and intelligent 
 
 2. **Secure Authentication Integration**: Secured user state, watchlists, and secure profile tracking using Clerk Auth for instantaneous session management.
 
-## Technical Stack
+## Tech Stack
 
 I build  clean, predictable, and highly modular systems utilizing tools that optimize both developer velocity and user experience:
 
