@@ -67,7 +67,7 @@ I build  clean, predictable, and highly modular systems utilizing tools that opt
 - Clerk Auth
 - Git/GitHub
 
-## Operational Strengths and Engineering Values
+## Operational Strengths and Key Engineering Values
 
 - **Asynchronous Excellence**: Thrives in fully distributed ecosystems. I operate with an institutional mindset towards async communication - utilizing highly accurate documentation,  structured GitHub issues, pull request summaries, and clear Slack or Loom updates to push projects forward without having for synchronous blockers.
 
