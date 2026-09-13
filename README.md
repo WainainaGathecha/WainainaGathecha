@@ -19,7 +19,7 @@ A high performance, live-deployed e-commerce platform built for a retail tyre di
 
 - **Stakeholder Delivery & Communication**: Acted as the sole engineering point of contact for the non-technical business owner. Transformed complex technical concepts - such as explaning how asynchronous database indexing directly prevents layout latency and increases customer checkout retention - into plain business metrics, ensuring a smooth alignment of product goals.
 
-## Featured Engineering Projects
+## Featured Projects
 
 ### CineWatch - Advanced Movie Recommendation App
 
