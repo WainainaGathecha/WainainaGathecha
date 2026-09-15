@@ -69,7 +69,7 @@ A highly dynamic web application leveraging client-side caching and intelligent 
 
 ## Let's connect
 
-I am open to scalable frontend engineering/development positions, architecture consulting, or high-impact contract roles.
+I am open to frontend positions, systems architecture consulting, or high-impact contract roles.
 
 - **LinkedIn**: https://www.linkedin.com/in/wainaina-gathesha-8a0926351/
 - **Portfolio**: https://my-portfolio-p2xe.vercel.app/
