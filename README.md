@@ -59,7 +59,7 @@ A highly dynamic web application leveraging client-side caching and intelligent 
 - Clerk Auth
 - Git/GitHub
 
-## Operational Strengths and Key Engineering Values
+## Operational Strengths and Key Values
 
 - **Asynchronous Excellence**: I operate with an institutional mindset towards async communication - utilizing highly accurate documentation,  structured GitHub issues, pull request summaries, and clear Slack updates to push projects forward.
 
