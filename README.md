@@ -4,7 +4,7 @@ I am a systems-oriented Frontend engineer with a track record of translating pix
 
 Beyond work, I am an exceptionally good technical communicator. I bridge the gap between complex engineering realities and business stakeholding. I have a history of translating technical constraints into plain, actionable concepts for non-technical clients.
 
-## Featured Live Production Projects
+## Featured Live Production Project
 
 ### SmartKings Auto Tyres - B2C E-Commerce platform 
 
