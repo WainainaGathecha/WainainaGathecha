@@ -72,5 +72,5 @@ A highly dynamic web application leveraging client-side caching and intelligent 
 I am open to frontend positions, systems architecture consulting, or high-impact contract roles.
 
 - **LinkedIn**: https://www.linkedin.com/in/wainaina-gathesha-8a0926351/
-- **Portfolio**: https://my-portfolio-p2xe.vercel.app/
+- **Portfolio**: https://visual-portfolio-phi.vercel.app/
 - **Email**: Wainainagathecha@gmail.com 
