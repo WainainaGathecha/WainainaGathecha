@@ -1,6 +1,6 @@
 # Hi, I'm Peter Wainaina | Frontend Engineer
 
-I am a systems-oriented Frontend engineer with a track record of translating pixel-perfect interfaces into highly performant and scalable web architectures. I specialize in designing reusable component systems, optimizing complex data flows, and safeguarding application lifecycle performance.
+I am a systems-oriented Frontend engineer with a track record of translating pixel-perfect designs into highly performant and scalable system architectures. I specialize in designing reusable component systems, optimizing complex data flows, and safeguarding application lifecycle performance.
 
 Beyond work, I am an exceptionally good technical communicator. I bridge the gap between complex engineering realities and business stakeholding. I have a history of translating technical constraints into plain, actionable concepts for non-technical clients.
 
